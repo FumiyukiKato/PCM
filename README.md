@@ -1,6 +1,6 @@
 # PCT
 Private Contact Tracing boosted by TEE(Intel SGX).  
-As component of [this material](https://github.com/FumiyukiKato/tee-psi)  
+As component of [this querying system](https://github.com/FumiyukiKato/tee-psi)  
 
 ## Build
 
