@@ -2,6 +2,8 @@
 Private Contact Tracing boosted by TEE(Intel SGX).  
 As component of [this querying system](https://github.com/FumiyukiKato/tee-psi)  
 
+**move to https://github.com/ylab-public/PCT**
+
 ## Build
 
 set environment variables in `.env`.
